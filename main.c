@@ -3,4 +3,5 @@ void main()
 {
 add();
 fact();
+big3();
 }
